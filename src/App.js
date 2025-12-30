@@ -1,3 +1,4 @@
+import hindalcoLogo from "./hindalco-logo.png";
 import { Pie, Bar } from "react-chartjs-2";
 import {
   Chart as ChartJS,
@@ -128,7 +129,7 @@ function App() {
       <nav style={styles.nav}>
         <div style={{ display: "flex", alignItems: "center", gap: "15px" }}>
           <img
-            src={process.env.PUBLIC_URL + "/hindalco-logo.png"}
+            src={hindalcoLogo}
             alt="Hindalco Logo"
             style={{ height: "55px" }}
           />
