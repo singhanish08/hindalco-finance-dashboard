@@ -127,7 +127,12 @@ function App() {
       {/* NAVBAR */}
       <nav style={styles.nav}>
         <div style={{ display: "flex", alignItems: "center", gap: "15px" }}>
-          <img src="/hindalco-logo.png" alt="Hindalco Logo" style={{ height: "55px" }} />
+          <img
+            src={process.env.PUBLIC_URL + "/hindalco-logo.png"}
+            alt="Hindalco Logo"
+            style={{ height: "55px" }}
+          />
+
           <div>
             <h2 style={{ margin: 0 }}>Hindalco Industries Ltd</h2>
             <p style={{ margin: 0, fontSize: "13px", opacity: 0.9 }}>
