@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hindalco-finance-dashboard/static/css/main.7b73e911.css",
+    "main.js": "/hindalco-finance-dashboard/static/js/main.39f0e6dc.js",
+    "index.html": "/hindalco-finance-dashboard/index.html",
+    "main.7b73e911.css.map": "/hindalco-finance-dashboard/static/css/main.7b73e911.css.map",
+    "main.39f0e6dc.js.map": "/hindalco-finance-dashboard/static/js/main.39f0e6dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b73e911.css",
+    "static/js/main.39f0e6dc.js"
+  ]
+}
