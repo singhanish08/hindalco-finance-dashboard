@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/hindalco-finance-dashboard/static/css/main.7b73e911.css",
-    "main.js": "/hindalco-finance-dashboard/static/js/main.3f5732c6.js",
+    "main.js": "/hindalco-finance-dashboard/static/js/main.473fb696.js",
+    "static/media/hindalco-logo.png": "/hindalco-finance-dashboard/static/media/hindalco-logo.97ea50d6b1bb32f8cf66.png",
     "index.html": "/hindalco-finance-dashboard/index.html",
     "main.7b73e911.css.map": "/hindalco-finance-dashboard/static/css/main.7b73e911.css.map",
-    "main.3f5732c6.js.map": "/hindalco-finance-dashboard/static/js/main.3f5732c6.js.map"
+    "main.473fb696.js.map": "/hindalco-finance-dashboard/static/js/main.473fb696.js.map"
   },
   "entrypoints": [
     "static/css/main.7b73e911.css",
-    "static/js/main.3f5732c6.js"
+    "static/js/main.473fb696.js"
   ]
 }
